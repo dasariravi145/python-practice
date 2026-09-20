@@ -1,6 +1,7 @@
 name =["ravi","divya","siva",123,True]
 
-print(name[0])
+for i in name -1:
+    print(i)
 
 a = list()
 print(type(a))
