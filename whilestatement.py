@@ -1,4 +1,9 @@
+
+
+
 i = 1
-while i<6:
-    print(i)
-    i = i+1
+
+while False:
+      print(i)
+      i = i+1
+    
